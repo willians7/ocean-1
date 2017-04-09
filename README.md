@@ -1,7 +1,4 @@
 # Ocean #
-A Digital Ocean console application. 
-http://link.lookahead.io/tutsdoapi
-
 To learn more about Digital Ocean, visit:
 http://jeffreifman.com/digitalocean
 
